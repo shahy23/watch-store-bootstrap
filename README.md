@@ -22,3 +22,7 @@ A modern and responsive watch store landing page built using HTML, CSS, Bootstra
 ## Preview
 
 Responsive landing page for an online watch store.
+
+ ## Author
+
+Shahinda Gamal
